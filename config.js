@@ -1,8 +1,8 @@
 const config = {
   challenge: true,
   users: {
-    // username: 'Batman', you can add multiple users.
-    interstellar: 'BlackCloverYami',
+    // username: 'Yami', you can add multiple users.
+    interstellar: 'Yami',
   },
 }
 export default config
